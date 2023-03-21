@@ -49,4 +49,9 @@ button {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    background-color: brown;
+    opacity: 0.8;
+    border: solid black 4px;
+    padding: 20px;
+}
 }
