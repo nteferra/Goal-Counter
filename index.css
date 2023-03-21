@@ -45,7 +45,7 @@ button {
 }
 
 .wrap {
-    max-width: 500px;
+    max-width: 250px;
     margin: auto;
     display: flex;
     align-items: center;
